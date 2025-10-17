@@ -1,1 +1,42 @@
-site_name: My Docs
+site_name: MkDocs
+
+site_url: https://myseq.github.io/mkdocs/
+site_author: zd
+site_description: >-
+  Cliff notes
+
+repo_name: myseq/mkdocs
+repo_url: https://github.com/myseq/mkdocs
+
+copyright: Copyright &copy; 2025 zd
+
+theme:
+  name: material
+
+
+  palette:
+
+    # Palette toggle for dark mode (default)
+    - scheme: slate
+      accent: lime
+      primary: amber
+      toggle:
+        icon: material/brightness-4
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - scheme: light
+      accent: indigo
+      primary: black
+      primary: light blue
+      toggle:
+        icon: material/brightness-7
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  font:
+    size: 24px
+    text: Fira Mono
+    code: Fira Mono
+
