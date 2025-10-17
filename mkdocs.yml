@@ -18,8 +18,8 @@ theme:
 
     # Palette toggle for dark mode (default)
     - scheme: slate
-      accent: lime
-      primary: amber
+      accent: amber
+      primary: lime
       toggle:
         icon: material/brightness-4
         icon: material/weather-sunny
