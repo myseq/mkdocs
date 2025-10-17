@@ -36,7 +36,7 @@ theme:
         name: Switch to dark mode
 
   font:
-    size: 24px
-    text: Fira Mono
+    size: 26px
+    text: Fira Sans
     code: Fira Mono
 
