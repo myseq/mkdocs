@@ -42,7 +42,18 @@ theme:
   features:
     - search.suggest
     - search.highlight
-    - navigation.tabs
+    - navigation.tabs        ## Tab for top-level sections menu
+    - navigation.tabs.sticky ## Ensure header remain visible
+    - navigation.sections    ## 2nd level header
+    - navigation.tracking    ## Anchor tracking
+    - navigation.indexes     ## Attach index.md to sections 
+
+
+
+
+extra_css:
+  - stylesheets/extra.css    ## For content area width extension
+
 
 
 
