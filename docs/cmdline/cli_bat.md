@@ -8,8 +8,6 @@ See more <https://github.com/sharkdp/bat>.
 
 Simply `sudo apt install bat`.
 
-## Testing
-
 ```
 % batcat /etc/lsb-release
 ───────┬──────────────────────────────────────────────────────────────────────────────────────────────────
@@ -22,12 +20,11 @@ Simply `sudo apt install bat`.
 ───────┴──────────────────────────────────────────────────────────────────────────────────────────────────
 ```
 
-## Options
+## Quick Start
 
  * Use `batcat --config-file` to show the config file path.
  * Use `batcat --list-themes` to list all themes.
  * To use specific theme, just `batcat --theme=TwoDark python_script.py`.
  * To set environment variable, `export BAT_THEME="TwoDark"`.
-
 
 
