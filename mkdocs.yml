@@ -1,9 +1,9 @@
-site_name: MySeq Cliff's Notes
+site_name: Cliff's Notes
 
 site_url: https://myseq.github.io/mkdocs/
 site_author: zd
 site_description: >-
-  Cliff's notes
+  MySeq Cliff's notes
 
 repo_name: myseq/mkdocs
 repo_url: https://github.com/myseq/mkdocs
@@ -12,7 +12,6 @@ copyright: Copyleft &copy; 2025 zd
 
 theme:
   name: material
-
 
   palette:
 
