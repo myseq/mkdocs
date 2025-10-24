@@ -1,6 +1,5 @@
 ---
 icon: material/library-outline
-template: home.html
 title: Home
 subtitle: Powered by MkDocs
 ---
