@@ -1,9 +1,9 @@
-site_name: Cliff's Notes
+site_name: MySeq's Cliff Notes
 
 site_url: https://myseq.github.io/mkdocs/
-site_author: zd
+site_author: xx
 site_description: >-
-  MySeq Cliff's notes
+  Cliff notes collected in MySeq
 
 repo_name: myseq/mkdocs
 repo_url: https://github.com/myseq/mkdocs
