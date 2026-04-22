@@ -1,5 +1,5 @@
 ---
-icon: material/package-outline
+icon: material/settings-outline
 title: tools
 subtitle: Setup tools
 ---
