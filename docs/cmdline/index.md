@@ -1,10 +1,9 @@
 ---
 icon: material/console-line
 title: cli
-subtitle: cmdline
+subtitle: Command Line
 ---
 
-# Cmdline
 
 Here, we have included a few useful cmdline in managing Linux env.
 
