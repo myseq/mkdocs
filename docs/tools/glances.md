@@ -42,14 +42,14 @@ systemctl start glances.service
 
 ## Quick Start
 
+To run, just: `% glances`
+
 `Glances` offers multiple modes:
 
  1. Standalone
  1. Client/Server (-c /-s)
  1. Web server(-w)
  1. Fetch(--fetch)
-
-
 
 
 
