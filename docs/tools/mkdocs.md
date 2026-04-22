@@ -1,4 +1,9 @@
-# Mkdocs.md
+---
+icon: material/package-variant-closed
+title: mkdocs
+---
+
+# Tools: Mkdocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
