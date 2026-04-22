@@ -1,5 +1,5 @@
 ---
-icon: material/console-line
+icon: material/package-variant-closed
 title: bat
 ---
 
