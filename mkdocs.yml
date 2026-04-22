@@ -8,7 +8,7 @@ site_description: >-
 repo_name: myseq/mkdocs
 repo_url: https://github.com/myseq/mkdocs
 
-copyright: Copyleft &copy; 2025 zd
+copyright: Copyleft &copy; 2026 zd
 
 theme:
   name: material
