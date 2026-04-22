@@ -1,5 +1,5 @@
 ---
-icon: material/library-outline
+icon: material/tools
 title: tools
 subtitle: Setup tools
 ---
