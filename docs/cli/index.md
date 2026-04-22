@@ -1,5 +1,5 @@
 ---
-icon: material/console-line
+icon: material/console
 title: cmdline
 subtitle: Command Line
 ---
