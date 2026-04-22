@@ -1,9 +1,9 @@
 ---
 icon: material/console-line
-title: % bat
+title: bat
 ---
 
-# bat
+# Tools: bat
 
 A cat(1) clone with syntax highlighting and Git integration.
 
