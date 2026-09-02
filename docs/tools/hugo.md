@@ -38,5 +38,17 @@ To create a new post:
 | Unlock | `sudo apt-mark unhold hugo` | `snap refresh --unhold hugo` |
 
 
+## Upgrade
+
+```
+% apt-mark showhold 
+hugo
+% sudo apt-mark unhold hugo
+% wget https://github.com/gohugoio/hugo/releases/download/v0.165.0/hugo_extended_0.165.0_linux-amd64.deb
+% sudo dpkg -i hugo_extended_0.165.0_linux-amd64.deb
+% hugo version
+hugo v0.165.0-76a5e1880ab46688155b02e99bab9be2a6134492+extended linux/amd64 BuildDate=2026-08-12T14:26:28Z VendorInfo=gohugoio
+```
+
 
 
